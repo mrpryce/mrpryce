@@ -173,10 +173,10 @@
  <tr>
  </tr>
 </table>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpryce&show_icons=true&locale=en&layout=compact" alt="mrpryce" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpryce&show_icons=true&locale=en&layout=compact" alt="mrpryce" /></p>
 
 
-<p><a href="https://www.buymeacoffee.com/mrpryce"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrpryce" /></a><a href="https://ko-fi.com/mrpryce"></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mrpryce"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrpryce" /></a><a href="https://ko-fi.com/mrpryce"></p><br><br>
 </a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpryce&" alt="mrpryce" /></p>
