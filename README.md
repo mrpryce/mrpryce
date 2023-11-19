@@ -167,11 +167,10 @@
  </tr>
 </table>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpryce&show_icons=true&locale=en&layout=compact" alt="mrpryce" /></p>
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpryce&" alt="mrpryce" /></p>
 
 
 <div class="buymecoffee">
@@ -180,3 +179,7 @@
 </a>
 </p>
 </div>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpryce&" alt="mrpryce" /></p>
+
+
