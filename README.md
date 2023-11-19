@@ -1,4 +1,4 @@
-<img  width="100%" src="https://img.freepik.com/premium-photo/futuristic-people-robots-unreal-fantastic-beautiful-female-robot-humanoid-synthetic-organism-android-humanlike-technology-modern-creativity-science-electronic_887181-8798.jpg?w=740"/>
+<img  width="100%" height="50%" src="https://img.freepik.com/premium-photo/futuristic-people-robots-unreal-fantastic-beautiful-female-robot-humanoid-synthetic-organism-android-humanlike-technology-modern-creativity-science-electronic_887181-8798.jpg?w=740"/>
 <h1 align="center">Hi 👋, I'm Bright Otu</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
