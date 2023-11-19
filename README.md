@@ -1,7 +1,7 @@
 <style>
 
   .buymecoffe{
-     margin-left:80px;
+     margin:0 auto;
   }
 
   
