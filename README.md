@@ -41,7 +41,7 @@
 <a href="https://medium.com/@bionethe69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bionethe69" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@otubright5864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@otubright5864" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/SzgtZTSP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SzgtZTSP" height="30" width="40" /></a>
-<a href="/pryce" target="blank"><img align="center" margin:20px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="pryce" height="30" width="40" /></a>
+<a href="/pryce" target="blank"><img align="center"  style="margin:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="pryce" height="30" width="40" /></a>
 </p>
 <br/><br/><br/><br/>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
