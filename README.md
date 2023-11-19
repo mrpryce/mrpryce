@@ -178,7 +178,7 @@
 </a>
 </p>
 
-<h3 align="center">Support:</h3>
+<h3 align="left">Support:</h3>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpryce&" alt="mrpryce" /></p>
 
