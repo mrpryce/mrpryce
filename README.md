@@ -1,3 +1,14 @@
+<style>
+
+  .buymecoffe{
+     margin-left:80px;
+  }
+
+  
+</style>
+
+
+
 <h1 align="center">Hi 👋, I'm Bright Otu</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
@@ -48,7 +59,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpryce&show_icons=true&locale=en&layout=compact" alt="mrpryce" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpryce&" alt="mrpryce" /></p>
 
-<div></div>
+<div class="buymecoffee">
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrpryce"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrpryce" /></a><a href="https://ko-fi.com/mrpryce"></p><br><br>
 </a>
+</p>
+</div>
