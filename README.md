@@ -44,6 +44,7 @@
 <a href="/pryce" target="blank"><img align="center"  style="margin:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="pryce" height="30" width="40" /></a>
 </p>
 <br/><br/><br/><br/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpryce&" alt="mrpryce" /></p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
 
