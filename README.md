@@ -179,7 +179,7 @@
 <p><a href="https://www.buymeacoffee.com/mrpryce"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrpryce" /></a><a href="https://ko-fi.com/mrpryce"></p><br><br>
 </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpryce&" alt="mrpryce" /></p>
+
 
 
 
