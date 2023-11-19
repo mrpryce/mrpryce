@@ -45,9 +45,6 @@
 </p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
-## My favorite tools and technologies ⚙️
-
-> Tools and technologies that I have worked with and am interested in
 
 <table align="left">
   <tr>
@@ -169,11 +166,11 @@
  <tr>
  </tr>
 </table>
-
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpryce&show_icons=true&locale=en&layout=compact" alt="mrpryce" /></p>
+## My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with and am interested in
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpryce&" alt="mrpryce" /></p>
 
 
