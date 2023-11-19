@@ -1,4 +1,4 @@
-
+https://img.freepik.com/premium-photo/artificial-intelligence-scattering-head-profile-chromeplated-robot-dark-lilac-background-header-banner-mockup-with-copy-space-ai-generated_868611-1474.jpg?w=900
 <h1 align="center">Hi 👋, I'm Bright Otu</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
