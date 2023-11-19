@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bright Otu</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
-<img align="right" alt="coding" width="300" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.tenor.com%2FwhgQwNlVvNkAAAAj%2Fxero-code.gif&sp=1700416591T9dfd7981e0489909c13ac9098712db22a43be98d6cf8737127002712173656d4">
+<img align="right" alt="coding" width="300" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.tenor.com%2FwhgQwNlVvNkAAAAj%2Fxero-code.gif&sp=1700416591T9dfd7981e0489909c13ac9098712db22a43be98d6cf8737127002712173656d4"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpryce&label=Profile%20views&color=0e75b6&style=flat" alt="mrpryce" /> </p>
 
