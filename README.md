@@ -45,9 +45,9 @@
 </p>
 </br></br></br></br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpryce&" alt="mrpryce" /></p>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"></br></br></br></br></br></br></br></br></br></br></br>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"></br></br></br></br></br></br></br></br></br></br></br>/br></br></br></br></br></br></br></br></br></br></br>
 
-## My favorite tools and technologies ⚙️
+<p align="center"> ## My favorite tools and technologies ⚙️</p>
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -172,7 +172,7 @@
   </tr>
  <tr>
  </tr>
-</table>
+</table></br></br></br></br></br></br></br></br></br></br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpryce&show_icons=true&locale=en&layout=compact" alt="mrpryce" /></p>
 
 
