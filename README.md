@@ -97,8 +97,8 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcR61iDY_9rBdaYVkUsO8nRDfDea9d6Z_OqPIiNQDUvnyOSSsCcfypbaH44%26s&sp=1700487056Tc32a69961527a331373a86db17475401643c53a422cf01a50562ca02560a816c" width="48" height="48" alt="GitLab" />
+      <br>Bash
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -131,40 +131,40 @@
   </tr>
    <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQcCPi8Wbw0s9NnDfPKVnRb8cKncMzWzN_bJXxTmmneUqOV3JA%26s&sp=1700486971T639dd796deccdc42f96e3e3d39dbd6f19171100ee3deb2d4d23875d79b168553" width="48" height="48" alt="Redis" />
+      <br>Firewall
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSZOJCroOUcmMwP8zMyZIj4KoYNyw1HxGkwfeeiXE7otp6iRRK7%26s&sp=1700486922T58f4526a0dc410152654d80d6fe9fc1d9e8f9368ba1e2c6cf3108e67e9fb3139" width="48" height="48" alt="Postman" />
+      <br>Vsphere
     </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fazure-active-directory.svg&sp=1700486862Te313e87e50a4242bbe6d99aa714e67e935738d1b8b52873f4e2da758b8fa6d33" width="48" height="48" alt="dart" />
+      <br>Active Directory
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F136%2F136525.png&sp=1700486802T9c568f2063c8c180651c3412b3858305ca33fbabd42dc380ccd19aa6afc96a33" width="48" height="48" alt="dart" />
+      <br>Json
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRi7JbhfJNemIQQVtdS39LoTOipE9MsocBZyVOhXOTR-Oc0Dyo%26s&sp=1700486721T9bb47220f5c440a52a97385c7a55ed5efa1575a931549404f76feebc3bd5a3f7" width="48" height="48" alt="dart" />
+      <br>PHP
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fgetumbrel.github.io%2Fumbrel-apps-gallery%2Fportainer%2Ficon.svg&sp=1700486642Tcd173e2d21c86ff1aa66401a192c135151cfa19cf4b11c730978fef6ebd298ca" width="48" height="48" alt="dart" />
+      <br>Portainer
     </td>
     <td align="center" width="96">
         <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F93%2FAmazon_Web_Services_Logo.svg%2F1024px-Amazon_Web_Services_Logo.svg.png&sp=1700486301Tac3cea2e66e5fd226767d36cd346091674adb5449d944615a5f313639cb3be85" width="48" height="48" alt="dart" />
-      <br>Docusaurus
+      <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fgoogle-cloud-icon-2048x1646-7admxejz.png&sp=1700486431Tfe8c61f5ace68e1dab726e4eed1c5ab718db4830e967574c7864d43930ec95c7" width="40" height="40" alt="dart" />
+      <br>Google Cloud
     </td>
   </tr>
  <tr>
