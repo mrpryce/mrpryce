@@ -159,7 +159,7 @@
       <br>Celery
     </td>
     <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
+        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F93%2FAmazon_Web_Services_Logo.svg%2F1024px-Amazon_Web_Services_Logo.svg.png&sp=1700486301Tac3cea2e66e5fd226767d36cd346091674adb5449d944615a5f313639cb3be85" width="48" height="48" alt="dart" />
       <br>Docusaurus
     </td>
     <td align="center" width="96">
