@@ -97,7 +97,7 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcR61iDY_9rBdaYVkUsO8nRDfDea9d6Z_OqPIiNQDUvnyOSSsCcfypbaH44%26s&sp=1700487056Tc32a69961527a331373a86db17475401643c53a422cf01a50562ca02560a816c" width="48" height="48" alt="GitLab" />
+        <img src="https://www.saagie.com/wp-content/uploads/elementor/thumbs/Bash-q3vwhhx7mhmqnccs9u8ukoalpdg5c48vkxo3uvvuo0.png" width="48" height="48" alt="GitLab" />
       <br>Bash
     </td>
     <td align="center"  width="96">
